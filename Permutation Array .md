@@ -1,5 +1,5 @@
 # Ex9 Finding the Longest Length of Nested Set in a Permutation Array
-## DATE:14-11-2025
+## DATE:02-09-2025
 ## AIM:
 To write a program that finds the length of the longest set s[k] defined as s[k] = { nums[k], nums[nums[k]], nums[nums[nums[k]]], … },where the iteration stops before a duplicate element occurs.
 
@@ -19,8 +19,8 @@ The task is to return the maximum size among all such sets.
 ```
 /*
 program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-Developed by:SINGAMALA VENKATA SAI KUMAR REDDY
-RegisterNumber:  212223230208
+Developed by: ROGITH GANESH.R
+RegisterNumber:  212223100046
 */
 import java.util.Scanner;
 
@@ -76,7 +76,8 @@ class LongestSet {
 
 ## Output:
 
-<img width="648" height="331" alt="image" src="https://github.com/user-attachments/assets/ec3863b7-0889-4948-bf67-6b809f2f21c8" />
+
+<img width="435" height="89" alt="514428739-4eacad87-879a-439c-8de7-a72bb850f9c1" src="https://github.com/user-attachments/assets/37b9b1d0-0088-4984-a29c-6a4b13bee701" />
 
 
 ## Result:
