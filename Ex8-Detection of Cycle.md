@@ -1,5 +1,5 @@
 # Ex8 Detection of Cycle and Finding the Starting Node in a Linked List
-## DATE:14-11-2025
+## DATE:28/08/2025
 ## AIM:
 To write a program that detects a cycle in a linked list and returns the node where the cycle begins.
 If there is no cycle, the program should return null without modifying the linked list.
@@ -20,8 +20,8 @@ If there is no cycle, the program should return null without modifying the linke
  /*
 program that detects a cycle in a linked list and returns the node where the cycle begins.
 If there is no cycle, the program should return null without modifying the linked list.
-Developed by: SINGAMALA VENKATA SAI KUMAR REDDY
-RegisterNumber: 212223230208
+Developed by: ROGITH GANESH.R
+RegisterNumber: 212223100046
 */
 class DetectCycle {
 
@@ -87,7 +87,9 @@ class DetectCycle {
 
 ## Output:
 
-<img width="459" height="153" alt="image" src="https://github.com/user-attachments/assets/956e0d1f-b504-4175-853e-7171cb9ffed0" />
+<img width="798" height="175" alt="514427923-9d8d99fc-0ab8-4708-8517-3b5c6a2663a6" src="https://github.com/user-attachments/assets/9cf07013-1fb6-4b49-94e4-8696175c6272" />
+
+
 
 
 ## Result:
